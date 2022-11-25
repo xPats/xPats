@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xPats
-- 👀 I’m interested in learning code 
-- 🌱 I’m currently learning HTML | CSS
+- 👀 I’m interested in learning code, i'm a beginner.
+- 🌱 I’m currently learning HTML | CSS 
 - Can people who has experience in developer can give me some tips or advices? I'll apreciate it so much :)
 
 <!---
